@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE char_length(name) <=5;
