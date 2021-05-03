@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `teachers` (
 --
 
 INSERT INTO `teachers` (`teacher_id`, `name`, `pay`) VALUES
-(1, "Oskar Florek", 1800),
+(1, 'Oskar Florek', 1800),
 (2, "Lilianna Kwiecińska", 2000),
 (3, "Brajan Kubik", 2200),
 (4, "Klara Dąbkowską", 1800),
