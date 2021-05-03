@@ -1,0 +1,1 @@
+insert into teachers values (null, 'tomasz Iksowski', 2345);
