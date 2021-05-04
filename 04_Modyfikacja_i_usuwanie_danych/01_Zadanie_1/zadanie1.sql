@@ -1,0 +1,1 @@
+UPDATE teachers SET name = 'Leo Messi' Where teacher_id = 6;

@@ -1,0 +1,1 @@
+Update classes SET name = 'X E' WHERE name = 'IX B';
