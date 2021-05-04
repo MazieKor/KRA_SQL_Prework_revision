@@ -1,0 +1,1 @@
+DELETE FROM teachers WHERE name = 'Leo Messi';
